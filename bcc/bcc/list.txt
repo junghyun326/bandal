@@ -1,0 +1,2 @@
+<li><a href="http://localhost/bcc/index.php?id=login">로그인</a></li>
+<li><a href="http://localhost/bcc/index.php?id=check">출석확인</a></li>
