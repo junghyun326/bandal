@@ -1,0 +1,56 @@
+.header_top {
+    width: 1000px;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.header_logo {
+    height: 130px;
+    width: 130px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.header_textlogo {
+    float: none;
+    margin-left: 450px;
+    padding-top: 50px;
+    width: 100px;
+    height: 50px;
+
+}
+.main_section {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main_body {
+    width: 800px;
+    float: left;
+    height: 900px;
+    border-left-width: medium;
+}
+.main_nav {
+    width: 190px;
+    float: right;
+    border-left: 3px solid #F6CE45;
+    height: 1500px;
+}
+.main_div {
+    height: 100px;
+    width: 1000px;
+    float: left;
+    border-top-right-radius: 0px;
+}
+.main_nav {
+    height: 300px;
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+}
+.main_right_section {
+    height: 900px;
+    width: 190px;
+    float: right;
+    border-left: 3px solid #F69A2D;
+}
